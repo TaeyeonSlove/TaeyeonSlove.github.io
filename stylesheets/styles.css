@@ -247,7 +247,10 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
+p:honer{
+  color:#030303;
+  box-shadow:0   0    5px   rgba(40, 173, 243, 0.5); 
+}
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
